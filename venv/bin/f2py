@@ -1,4 +1,4 @@
-#!/Users/michael/Desktop/Crime_Data_visualization/venv/bin/python3
+#!/Users/michael/Desktop/Crime_Data_visualization/venv/bin/python3.12
 # -*- coding: utf-8 -*-
 import re
 import sys
