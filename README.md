@@ -4,7 +4,10 @@
 
 ### Project Overview
 
-This project focuses on analyzing crime data in Los Angeles from 2020 to the present using a dataset obtained from data.gov. The goal is to clean, filter, and visualize crime trends, providing insights into crime patterns over time. This project serves as a portfolio piece showcasing data cleaning, exploratory data analysis (EDA), and visualization skills using Python.
+This project focuses on analyzing crime data in Los Angeles from 2020 to the present using a dataset obtained from 
+[data.gov](https://catalog.data.gov/dataset/crime-data-from-2020-to-present).
+
+ The goal is to clean, filter, and visualize crime trends, providing insights into crime patterns over time. This project serves as a portfolio piece showcasing data cleaning, exploratory data analysis (EDA), and visualization skills using Python.
 
 ### Objectives
 	•	Data Cleaning & Filtering: Handle missing or inconsistent data, remove duplicates, and format the dataset for analysis.
