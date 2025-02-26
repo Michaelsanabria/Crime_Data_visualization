@@ -1,8 +1,6 @@
-# Crime_Data_visualization
- 
-## Crime Data Analysis: Los Angeles (2020 - Present)
+# Crime Data Analysis: Los Angeles (2020 - Present)
 
-### Project Overview
+## Project Overview
 
 This project focuses on analyzing crime data in Los Angeles from 2020 to the present using a dataset obtained from 
 [data.gov](https://catalog.data.gov/dataset/crime-data-from-2020-to-present).
